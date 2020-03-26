@@ -119,10 +119,10 @@ function Baby(name, age, favoriteToy) {
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. window binding = the global window is binded to this
+  2. implicit = this keyword points to the object left of the dot
+  3. new = this points to the constructor function to create a new instance
+  4. explicit = uses call, apply, and bind to override the this keyword and gives it abother object
 */
 
 
